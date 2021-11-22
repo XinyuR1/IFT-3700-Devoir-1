@@ -1,5 +1,6 @@
 1. Les fichiers MNIST et ADULT ne sont pas dans cette répertoire en
 raison de la grosseur de la taille de ses fichiers. 
+2. Télécharger le package scikit-image avant la compilation.
 2. MNIST: Compiler le fichier mnist.py
 3. ADULT: Compiler le fichier adult.py
 4. Le notebook résume tout le code des fichiers MNIST et ADULT en un
